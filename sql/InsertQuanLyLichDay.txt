@@ -1,0 +1,61 @@
+USE QuanLyDayHoc
+GO
+-- Thêm dữ liệu vào bảng Khoa
+INSERT INTO Khoa (TenKhoa) VALUES
+(N'Toán tin'), (N'Vật lý'), (N'Hóa học'), (N'Sinh học'),
+(N'Ngoại ngữ'), (N'Lịch sử'), (N'Địa lý'), (N'Giáo dục công dân'),
+(N'Tin học'), (N'Khoa học xã hội');
+GO
+-- Thêm dữ liệu vào bảng Giaovien
+INSERT INTO GiaoVien (HoTen, MaKhoa) VALUES
+(N'Nguyễn Văn A', 1),
+(N'Lê Thị B', 2),
+(N'Phạm Văn C', 3),
+(N'Trần Thị D', 4),
+(N'Hoàng Văn E', 5),
+(N'Nguyễn Thị F', 1),
+(N'Lê Văn G', 2),
+(N'Phạm Thị H', 3),
+(N'Trần Văn I', 4),
+(N'Hoàng Thị J', 5);
+GO
+-- Thêm dữ liệu vào bảng Monhoc
+INSERT INTO MonHoc (TenMH) VALUES
+(N'Toán'), (N'Văn'), (N'Anh'), (N'Lý'), (N'Hóa'),
+(N'Sinh'), (N'Lịch sử'), (N'Địa lý'), (N'GDCD'), (N'Tin học');
+GO
+-- Thêm dữ liệu vào bảng Phonghoc
+INSERT INTO PhongHoc (Phong, ChucNang) VALUES
+(N'P101', N'Học lý thuyết'), (N'P102', N'Phòng máy tính'),
+(N'P103', N'Học nhóm'), (N'P104', N'Học ngoại ngữ'),
+(N'P105', N'Phòng đa năng'), (N'P201', N'Học lý thuyết'),
+(N'P202', N'Phòng máy tính'), (N'P203', N'Học nhóm'),
+(N'P204', N'Học ngoại ngữ'), (N'P205', N'Phòng đa năng');
+GO
+-- Thêm dữ liệu vào bảng Lop
+INSERT INTO Lop (TenLop, MaKhoa) VALUES
+(N'10A1', 1), (N'10A2', 2), (N'11B1', 3), (N'11B2', 4),
+(N'12C1', 5), (N'12C2', 6), (N'10A3', 7), (N'11B3', 8),
+(N'12C3', 9), (N'10A4', 10);
+GO
+-- Thêm dữ liệu vào bảng Lichday
+INSERT INTO LichDay (MaGV, MaMH, Phong, MaLop, NgayDay, TuTiet, DenTiet, BaiDay, LyThuyet, GhiChu) VALUES
+(1, 1, N'P101', 1, '2024-06-01', 1, 3, N'Chương 1: Số học', 1, NULL),
+(2, 2, N'P102', 2, '2024-06-02', 2, 4, N'Chương 2: Văn học dân gian', 1, N'Bài tập nhiều'),
+(3, 3, N'P103', 3, '2024-06-03', 3, 5, N'Unit 1: Greetings', 0, NULL),
+(4, 4, N'P104', 4, '2024-06-04', 4, 6, N'Chương 3: Dao động điều hòa', 1, NULL),
+(5, 5, N'P105', 5, '2024-06-05', 5, 7, N'Chương 4: Hóa học hữu cơ', 1, N'Thí nghiệm cần thiết'),
+(6, 6, N'P201', 6, '2024-06-06', 6, 8, N'Chương 5: Tế bào học', 1, NULL),
+(7, 7, N'P202', 7, '2024-06-07', 7, 9, N'Bài 1: Cách mạng tháng 8', 1, N'Rất khó'),
+(8, 8, N'P203', 8, '2024-06-08', 8, 10, N'Bài 2: Sông ngòi Việt Nam', 1, NULL),
+(9, 9, N'P204', 9, '2024-06-09', 1, 3, N'Bài 3: Giá trị sống', 1, NULL),
+(10, 10, N'P205', 10, '2024-06-10', 2, 4, N'Chương 6: Phần mềm máy tính', 0, N'Dùng máy tính');
+GO
+
+UPDATE dbo.PhongHoc SET ChucNang = @ChucNang WHERE Phong = @Phong
+
+UPDATE dbo.GiaoVien SET HoTen = @HoTen, MaKhoa = @MaKhoa WHERE MaGV = @MaGV
+
+UPDATE dbo.LichDay SET TuTiet = @TuTiet,DenTiet = @DenTiet, BaiDay = @BaiDay, LyThuyet = @LyThuyet, GhiChu = @GhiChu WHERE MaGV = @MaGV AND MaMH = @MaMH AND Phong = @Phong AND MaLop = @MaLop AND NgayDay = @NgayDay
+
+DELETE dbo.PhongHoc WHERE Phong = @Phong

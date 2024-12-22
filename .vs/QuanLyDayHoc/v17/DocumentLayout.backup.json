@@ -1,0 +1,156 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDayHoc\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7ABC54-335F-4EEA-986A-CA50DC0FCE6A}|QuanLyDayHoc\\QuanLyDayHoc.csproj|e:\\workspace\\asp.net\\asp\\2.1\\quanlydayhoc\\quanlydayhoc\\view\\lichday.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7ABC54-335F-4EEA-986A-CA50DC0FCE6A}|QuanLyDayHoc\\QuanLyDayHoc.csproj|solutionrelative:quanlydayhoc\\view\\lichday.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7ABC54-335F-4EEA-986A-CA50DC0FCE6A}|QuanLyDayHoc\\QuanLyDayHoc.csproj|e:\\workspace\\asp.net\\asp\\2.1\\quanlydayhoc\\quanlydayhoc\\view\\lichday.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7D7ABC54-335F-4EEA-986A-CA50DC0FCE6A}|QuanLyDayHoc\\QuanLyDayHoc.csproj|solutionrelative:quanlydayhoc\\view\\lichday.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7ABC54-335F-4EEA-986A-CA50DC0FCE6A}|QuanLyDayHoc\\QuanLyDayHoc.csproj|e:\\workspace\\asp.net\\asp\\2.1\\quanlydayhoc\\quanlydayhoc\\view\\phonghoc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7D7ABC54-335F-4EEA-986A-CA50DC0FCE6A}|QuanLyDayHoc\\QuanLyDayHoc.csproj|solutionrelative:quanlydayhoc\\view\\phonghoc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7ABC54-335F-4EEA-986A-CA50DC0FCE6A}|QuanLyDayHoc\\QuanLyDayHoc.csproj|e:\\workspace\\asp.net\\asp\\2.1\\quanlydayhoc\\quanlydayhoc\\view\\monhoc.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7ABC54-335F-4EEA-986A-CA50DC0FCE6A}|QuanLyDayHoc\\QuanLyDayHoc.csproj|solutionrelative:quanlydayhoc\\view\\monhoc.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7ABC54-335F-4EEA-986A-CA50DC0FCE6A}|QuanLyDayHoc\\QuanLyDayHoc.csproj|e:\\workspace\\asp.net\\asp\\2.1\\quanlydayhoc\\quanlydayhoc\\view\\monhoc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7D7ABC54-335F-4EEA-986A-CA50DC0FCE6A}|QuanLyDayHoc\\QuanLyDayHoc.csproj|solutionrelative:quanlydayhoc\\view\\monhoc.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7ABC54-335F-4EEA-986A-CA50DC0FCE6A}|QuanLyDayHoc\\QuanLyDayHoc.csproj|e:\\workspace\\asp.net\\asp\\2.1\\quanlydayhoc\\quanlydayhoc\\view\\lop.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7ABC54-335F-4EEA-986A-CA50DC0FCE6A}|QuanLyDayHoc\\QuanLyDayHoc.csproj|solutionrelative:quanlydayhoc\\view\\lop.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7ABC54-335F-4EEA-986A-CA50DC0FCE6A}|QuanLyDayHoc\\QuanLyDayHoc.csproj|e:\\workspace\\asp.net\\asp\\2.1\\quanlydayhoc\\quanlydayhoc\\view\\khoa.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7D7ABC54-335F-4EEA-986A-CA50DC0FCE6A}|QuanLyDayHoc\\QuanLyDayHoc.csproj|solutionrelative:quanlydayhoc\\view\\khoa.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7D7ABC54-335F-4EEA-986A-CA50DC0FCE6A}|QuanLyDayHoc\\QuanLyDayHoc.csproj|e:\\workspace\\asp.net\\asp\\2.1\\quanlydayhoc\\quanlydayhoc\\view\\lop.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{7D7ABC54-335F-4EEA-986A-CA50DC0FCE6A}|QuanLyDayHoc\\QuanLyDayHoc.csproj|solutionrelative:quanlydayhoc\\view\\lop.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PhongHoc.aspx",
+              "DocumentMoniker": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDayHoc\\QuanLyDayHoc\\View\\PhongHoc.aspx",
+              "RelativeDocumentMoniker": "QuanLyDayHoc\\View\\PhongHoc.aspx",
+              "ToolTip": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDayHoc\\QuanLyDayHoc\\View\\PhongHoc.aspx",
+              "RelativeToolTip": "QuanLyDayHoc\\View\\PhongHoc.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-21T14:10:08.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LichDay.aspx.cs",
+              "DocumentMoniker": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDayHoc\\QuanLyDayHoc\\View\\LichDay.aspx.cs",
+              "RelativeDocumentMoniker": "QuanLyDayHoc\\View\\LichDay.aspx.cs",
+              "ToolTip": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDayHoc\\QuanLyDayHoc\\View\\LichDay.aspx.cs",
+              "RelativeToolTip": "QuanLyDayHoc\\View\\LichDay.aspx.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAWwC4AAABnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T14:10:06.236Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LichDay.aspx",
+              "DocumentMoniker": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDayHoc\\QuanLyDayHoc\\View\\LichDay.aspx",
+              "RelativeDocumentMoniker": "QuanLyDayHoc\\View\\LichDay.aspx",
+              "ToolTip": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDayHoc\\QuanLyDayHoc\\View\\LichDay.aspx",
+              "RelativeToolTip": "QuanLyDayHoc\\View\\LichDay.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-21T13:58:25.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "MonHoc.aspx.cs",
+              "DocumentMoniker": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDayHoc\\QuanLyDayHoc\\View\\MonHoc.aspx.cs",
+              "RelativeDocumentMoniker": "QuanLyDayHoc\\View\\MonHoc.aspx.cs",
+              "ToolTip": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDayHoc\\QuanLyDayHoc\\View\\MonHoc.aspx.cs",
+              "RelativeToolTip": "QuanLyDayHoc\\View\\MonHoc.aspx.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwCYAAABDAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:49:44.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Khoa.aspx.cs",
+              "DocumentMoniker": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDayHoc\\QuanLyDayHoc\\View\\Khoa.aspx.cs",
+              "RelativeDocumentMoniker": "QuanLyDayHoc\\View\\Khoa.aspx.cs",
+              "ToolTip": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDayHoc\\QuanLyDayHoc\\View\\Khoa.aspx.cs",
+              "RelativeToolTip": "QuanLyDayHoc\\View\\Khoa.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:36:25.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MonHoc.aspx",
+              "DocumentMoniker": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDayHoc\\QuanLyDayHoc\\View\\MonHoc.aspx",
+              "RelativeDocumentMoniker": "QuanLyDayHoc\\View\\MonHoc.aspx",
+              "ToolTip": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDayHoc\\QuanLyDayHoc\\View\\MonHoc.aspx",
+              "RelativeToolTip": "QuanLyDayHoc\\View\\MonHoc.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-21T13:36:13.815Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Lop.aspx.cs",
+              "DocumentMoniker": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDayHoc\\QuanLyDayHoc\\View\\Lop.aspx.cs",
+              "RelativeDocumentMoniker": "QuanLyDayHoc\\View\\Lop.aspx.cs",
+              "ToolTip": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDayHoc\\QuanLyDayHoc\\View\\Lop.aspx.cs",
+              "RelativeToolTip": "QuanLyDayHoc\\View\\Lop.aspx.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAwwEIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-21T13:35:35.916Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Lop.aspx",
+              "DocumentMoniker": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDayHoc\\QuanLyDayHoc\\View\\Lop.aspx",
+              "RelativeDocumentMoniker": "QuanLyDayHoc\\View\\Lop.aspx",
+              "ToolTip": "E:\\Workspace\\ASP.net\\ASP\\2.1\\QuanLyDayHoc\\QuanLyDayHoc\\View\\Lop.aspx",
+              "RelativeToolTip": "QuanLyDayHoc\\View\\Lop.aspx",
+              "LogicalView": "7651a702-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-21T13:31:05.96Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
